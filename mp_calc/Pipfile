@@ -14,6 +14,7 @@ bootstrap-flask = "*"
 importlib-resources = "*"
 colorama = "*"
 
+
 [dev-packages]
 
 [requires]
